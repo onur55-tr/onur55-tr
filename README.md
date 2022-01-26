@@ -38,7 +38,7 @@ I have a variety of interests:
 
 # on Telegram
 ```
-    @Centreal
+@Centreal
 ```
 <p align="center">
 	<a href = "mailto:onurdrsn55@gmail.com">

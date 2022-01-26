@@ -36,10 +36,10 @@ I have a variety of interests:
 
 ---
 
-# on Telegram 
-                  
+# on Telegram
+```
     @Centreal
-
+```
 <p align="center">
 	<a href = "mailto:onurdrsn55@gmail.com">
 		<img alt = "Ask Me" src = "https://img.shields.io/badge/-Ask_me_anything-white?style=plastic&logo=Gmail&link=mailto:onurdrsn55@gmail.com" />

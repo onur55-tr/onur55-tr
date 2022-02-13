@@ -45,15 +45,15 @@ I have a variety of interests:
 		<img alt = "Ask Me" src = "https://img.shields.io/badge/-Ask_me_anything-white?style=plastic&logo=Gmail&link=mailto:onurdrsn55@gmail.com" />
 	</a>
 	</a>
-	<span> | </span>
+	<span>  </span>
 	<a href = "https://www.linkedin.com/in/odursun/">
 		<img alt = "Linkedin Profile" src = "https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/odursun/" />
 	</a>
-  <span> | </span>
+  <span>  </span>
   <a href = "https://t.me/Centreal">
     <img alt = "Visit me" src = "https://img.shields.io/badge/-Visit_Me-white?style=plastic&logo=Telegram&link=https://www.t.me/Centreal" />
   </a>
-  <span> | </span>
+  <span>  </span>
   <a href = "https://twitter.com/odursun">
     <img alt = "Visit me" src = "https://img.shields.io/badge/-Visit_Me-blue?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/odursun" />
   </a>

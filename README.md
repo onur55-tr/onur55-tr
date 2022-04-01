@@ -54,8 +54,8 @@ I have a variety of interests:
     <img alt = "Visit me" src = "https://img.shields.io/badge/-Visit_Me-white?style=plastic&logo=Telegram&link=https://www.t.me/Centreal" />
   </a>
   <span>  </span>
-  <a href = "https://twitter.com/odursun">
-    <img alt = "Visit me" src = "https://img.shields.io/badge/-Visit_Me-blue?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/odursun" />
+  <a href = "https://twitter.com/odursun_">
+    <img alt = "Visit me" src = "https://img.shields.io/badge/-Visit_Me-blue?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/odursun_" />
   </a>
 </p>
 
